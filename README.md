@@ -104,29 +104,45 @@ $ print(horoscope.daily_horoscope())
 
 ## Functionalities
 
-- Gets Tomorrow Horoscope For The Sign
+- Gets Tomorrow Horoscope For The Sign  
+  ```python
   tomorrow_horoscope()
+  ```
 
-- Gets weekly Horoscope For The Sign
+- Gets weekly Horoscope For The Sign  
+  ```python
   weekly_horoscope()
+  ```
 
-- Gets The Daily Love Horoscope For The Sign
+- Gets The Daily Love Horoscope For The Sign  
+  ```python
   daily_love()
+  ```
 
-- Gets The Tomorrow Love Horoscope For The Sign
+- Gets The Tomorrow Love Horoscope For The Sign  
+  ```python
   love_tomorrow()
+  ```
 
-- Gets The Weekly Love Horoscope For The Sign
+- Gets The Weekly Love Horoscope For The Sign  
+  ```python
   love_weekly()
+  ```
 
-- Get's Daily Carrer Horoscope For The Sign
+- Get's Daily Carrer Horoscope For The Sign  
+  ```python
   daily_carrer()
+  ```
 
-- Get's tomorrow Carrer Horoscope For The Sign
+- Get's tomorrow Carrer Horoscope For The Sign  
+  ```python
   tomorrow_carrer()
+  ```
 
-- Get's weekly Carrer Horoscope For The Sign
+- Get's weekly Carrer Horoscope For The Sign  
+  ```python
   weekly_carrer()
+  ```
 
 
 ## :memo: License ##
