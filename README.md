@@ -38,6 +38,8 @@
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#test_tube-how-to-use">How TO</a> &#xa0; | &#xa0;
+  <a href="#hammer_and_wrench-functionalities">Functions</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{fahad-programmer}}" target="_blank">Author</a>
 </p>
@@ -102,7 +104,7 @@ $ print(horoscope.daily_horoscope())
 
 ```
 
-## Functionalities
+## :hammer_and_wrench: Functionalities
 
 - Gets Tomorrow Horoscope For The Sign  
   ```python
