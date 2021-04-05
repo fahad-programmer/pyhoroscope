@@ -158,7 +158,7 @@ class Horoscope:
             return "Some Internal Error Occured Try Later"
         return tag_find
 
-    def monthly_carrer(self) -> str:
+    
         
 
 

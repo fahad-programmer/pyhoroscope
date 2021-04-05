@@ -59,6 +59,15 @@ sign. The data is scraped from the horoscope.com site and code is optimized for 
 :heavy_check_mark: Feature Get Love And Carrer Specific Readings;\
 :heavy_check_mark: Feature Get What To Watch Recommendations Based On Your Sign ;
 
+## Installing
+
+Use the Following command in your terminal to install thi module.
+```bash
+$ pip install PyHoroscope
+```
+
+# Contributions
+
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
@@ -92,7 +101,7 @@ $ python horoscope.py
 
 ```bash
 # You Can Do This By Simple Importing The Module
-$ from PyHoroscope Import Horoscope
+$ from pyhoroscope.horoscope import Horoscope
 
 # Then Create A Class Object Like This
 $ horoscope = Horoscope("Name Of Sign")
