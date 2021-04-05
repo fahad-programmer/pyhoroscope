@@ -73,7 +73,7 @@ Before starting :checkered_flag:, you need to have [Python](https://python.org),
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{fahad-programmer}}/pyhoroscope
+$ git clone https://github.com/fahad-programmer/pyhoroscope
 
 # Access
 $ cd pyhoroscope
@@ -85,6 +85,48 @@ $ pip install -r requirements.txt
 $ python horoscope.py
 
 ```
+
+## :test_tube: How To Use ##
+
+```bash
+# You Can Do This By Simple Importing The Module
+$ from PyHoroscope Import Horoscope
+
+# Then Create A Class Object Like This
+$ horoscope = Horoscope("Name Of Sign")
+
+# Then You Can Use The Following Functions
+
+# Gets Daily Horoscope For The Sign
+$ print(horoscope.daily_horoscope())
+
+# Gets Tomorrow Horoscope For The Sign
+$ print(horoscope.tomorrow_horoscope())
+
+# Gets weekly Horoscope For The Sign
+$ print(horoscope.weekly_horoscope())
+
+# Gets The Daily Love Horoscope For The Sign
+$ print(horoscope.daily_love())
+
+# Gets The Tomorrow Love Horoscope For The Sign
+$ print(horoscope.love_tomorrow())
+
+# Gets The Weekly Love Horoscope For The Sign
+$ print(horoscope.love_weekly())
+
+# Get's Daily Carrer Horoscope For The Sign
+$ print(horoscope.daily_carrer())
+
+# Get's tomorrow Carrer Horoscope For The Sign
+$ print(horoscope.tomorrow_carrer())
+
+# Get's weekly Carrer Horoscope For The Sign
+$ print(horoscope.weekly_carrer())
+
+
+```
+
 
 ## :memo: License ##
 

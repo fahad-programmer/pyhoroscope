@@ -159,5 +159,3 @@ class Horoscope:
         return tag_find
 
 
-person = Horoscope("cancer")
-print(person.tomorrow_carrer())
