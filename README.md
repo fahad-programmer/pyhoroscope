@@ -100,32 +100,33 @@ $ horoscope = Horoscope("Name Of Sign")
 # Gets Daily Horoscope For The Sign
 $ print(horoscope.daily_horoscope())
 
-# Gets Tomorrow Horoscope For The Sign
-$ print(horoscope.tomorrow_horoscope())
-
-# Gets weekly Horoscope For The Sign
-$ print(horoscope.weekly_horoscope())
-
-# Gets The Daily Love Horoscope For The Sign
-$ print(horoscope.daily_love())
-
-# Gets The Tomorrow Love Horoscope For The Sign
-$ print(horoscope.love_tomorrow())
-
-# Gets The Weekly Love Horoscope For The Sign
-$ print(horoscope.love_weekly())
-
-# Get's Daily Carrer Horoscope For The Sign
-$ print(horoscope.daily_carrer())
-
-# Get's tomorrow Carrer Horoscope For The Sign
-$ print(horoscope.tomorrow_carrer())
-
-# Get's weekly Carrer Horoscope For The Sign
-$ print(horoscope.weekly_carrer())
-
-
 ```
+
+## Functionalities
+
+- # Gets Tomorrow Horoscope For The Sign
+  tomorrow_horoscope()
+
+- # Gets weekly Horoscope For The Sign
+  weekly_horoscope()
+
+- # Gets The Daily Love Horoscope For The Sign
+  daily_love()
+
+- # Gets The Tomorrow Love Horoscope For The Sign
+  love_tomorrow()
+
+- # Gets The Weekly Love Horoscope For The Sign
+  love_weekly()
+
+- # Get's Daily Carrer Horoscope For The Sign
+  daily_carrer()
+
+- # Get's tomorrow Carrer Horoscope For The Sign
+  tomorrow_carrer()
+
+- # Get's weekly Carrer Horoscope For The Sign
+  weekly_carrer()
 
 
 ## :memo: License ##
