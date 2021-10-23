@@ -48,7 +48,7 @@
 
 ## :dart: About ##
 
-Describe your project
+Describe your Module
 
 This is a simple and lightweight module that you can use to get the horoscope reading for your
 sign. The data is scraped from the horoscope.com site and code is optimized for performance.
