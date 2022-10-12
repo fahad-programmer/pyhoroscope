@@ -47,9 +47,6 @@
 <br>
 
 ## :dart: About ##
-
-Describe your Module
-
 This is a simple and lightweight module that you can use to get the horoscope reading for your
 sign. The data is scraped from the horoscope.com site and code is optimized for performance.
 
@@ -61,7 +58,7 @@ sign. The data is scraped from the horoscope.com site and code is optimized for 
 
 ## Installing
 
-Use the Following command in your terminal to install thi module.
+Use the Following command in your terminal to install the module.
 ```bash
 $ pip install PyHoroscope
 ```
@@ -78,7 +75,7 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Python](https://python.org), [Beautiful Soap] (https://pypi.org/project/bs4/) And [Python Request Module](https://github.com/psf/requests)  installed.
+Before starting :checkered_flag:, you need to have [Python](https://python.org), [Beautiful Soap](https://pypi.org/project/bs4/) And [Python Request Module](https://github.com/psf/requests)  installed.
 
 ## :checkered_flag: Starting ##
 
